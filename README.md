@@ -7,7 +7,7 @@
 <h3 align="center">A Data Scientist / Web Developer is in making.</h3>
 <hr>
 <p align="center">
-    <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/aswinx" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sasuke" height="30" width="40" /></a>
     <a href="https://www.instagram.com/ft.aswinx/" target="_open"><img align="center"
