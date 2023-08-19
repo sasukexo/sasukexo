@@ -38,7 +38,7 @@
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1Gdaf5rQgIEn0lQv7uPx5hECxsuO8PjcI/view?usp=sharing) 
 
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/sasukexo)
+- 👨‍💻 All my projects are available at my [GitHub](https://github.com/sasukexo)
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
