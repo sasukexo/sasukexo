@@ -12,7 +12,7 @@
             alt="sasuke" height="30" width="40" /></a>
     <a href="https://www.instagram.com/ft.aswinx/" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="sasuke height="30" width="40" /></a>
+            alt="sasuke" height="30" width="40" /></a>
     <a href="https://twitter.com/aswinxox" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="sasuke" height="30" width="40" /></a>
