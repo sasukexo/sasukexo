@@ -9,16 +9,16 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="VAIBHAV" height="30" width="40" /></a>
+            alt="sasuke" height="30" width="40" /></a>
     <a href="https://www.instagram.com/ft.aswinx/" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="vaibhzz101 height="30" width="40" /></a>
+            alt="sasuke height="30" width="40" /></a>
     <a href="https://twitter.com/aswinxox" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="vaibhav" height="30" width="40" /></a>
+            alt="sasuke" height="30" width="40" /></a>
     <a href="https://www.facebook.com/vaibhav.shevne.1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="vaibhzz" height="30" width="40" /></a>
+            alt="sasuke" height="30" width="40" /></a>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasukex0&label=Profile%20views&color=0e75b6&style=flat"
