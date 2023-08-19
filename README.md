@@ -4,7 +4,7 @@
    
  
 <h1 align="center">Hello 👋, I'm Aswin (sasukexo)</h1>
-<h3 align="center">A Web Developer is in making.</h3>
+<h3 align="center">A Data Scientist / Web Developer is in making.</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
