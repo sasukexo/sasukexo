@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **aswinash1002@gmail.com**
 
-- 🌏 Visit my Portfolio, **[click here](portfolio-sasukexo.vercel.app)**
+- 🌏 Visit my Portfolio [Click here](https://portfolio-sasukexo.vercel.app/)
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1Gdaf5rQgIEn0lQv7uPx5hECxsuO8PjcI/view?usp=sharing) 
 
