@@ -18,7 +18,7 @@
 
 - 🌏 Visit my Portfolio [Click here](https://portfolio-sasukexo.vercel.app/)
 
-- 📃 Look at my [Resume]([https://drive.google.com/file/d/1Gdaf5rQgIEn0lQv7uPx5hECxsuO8PjcI/view?usp=sharing](https://drive.google.com/file/d/1B5h9oeM6gscJ4CrN2l2crOKEuleL_OY4/view?usp=drive_link)) 
+- 📃 Look at my [Resume]((https://drive.google.com/file/d/1B5h9oeM6gscJ4CrN2l2crOKEuleL_OY4/view?usp=drive_link)) 
 
 
 
