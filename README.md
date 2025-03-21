@@ -4,7 +4,7 @@
 </div>   
    
  
-<h1 align="center">Hello 👋, I'm Aswin (sasukexo)</h1>
+<h1 align="center">Hello 👋, I'm Aswin</h1>
 
   
 
